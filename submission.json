@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "daldebak/dsc180a:latest",
+    "build-script": "python run.py"
+}
